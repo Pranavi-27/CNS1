@@ -27,3 +27,8 @@ public class SHA512Example
         } 
     } 
 }
+Output: 
+Enter text to hash: Hello World 
+SHA-512 Message Digest: 
+2c74fd17edafd80e8447b0d46741ee243b7eb74dd2149a0ab1b9246fb30382f27e853d8585719
+ e0e67cbcfb3e17929998e9e6d44bfa97a2a 
