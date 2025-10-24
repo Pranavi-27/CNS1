@@ -34,3 +34,9 @@ is invalid "));
         } 
     } 
 } 
+Output: 
+ 
+Enter text to sign: Hello World 
+Digital Signature (in hex): 
+3045022100cfe7c... 
+Verification: Signature is valid 
